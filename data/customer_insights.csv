@@ -1,0 +1,4 @@
+Aggregator,New Customers (%),Returning Customers (%),Peak Hours,Off-Peak Hours
+Zomato,49,51,"6 PM - 9 PM","2 PM - 5 PM"
+Swiggy,58,42,"7 PM - 10 PM","3 PM - 6 PM"
+MagicPin,64,36,"8 PM - 11 PM","4 PM - 7 PM"

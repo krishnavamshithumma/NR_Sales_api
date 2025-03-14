@@ -1,0 +1,18 @@
+{
+  "name": "marketing-analysis",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "axios": "^0.21.1",
+    "cheerio": "^0.22.0",
+    "csv-parser": "^2.3.3",
+    "uuid": "^8.3.2",
+    "openai": "^3.0.0",
+    "dotenv": "^8.2.0"
+  }
+}
